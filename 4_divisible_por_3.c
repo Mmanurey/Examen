@@ -8,7 +8,13 @@
  * $ ./divisible 1 20
  * 3 6 9 12 15 18
  */
+#include <stdio.h>
+#include <stdlib.h>
 
-int main() {
-
+int main(int argc, char *argv) {
+  int a = atoi(argv[1]);
+  int b = atoi(argv[2]);
+  int r = a / b;
+  printf("%d, %d, %d\n", a, b, r);
+  return 0;
 }

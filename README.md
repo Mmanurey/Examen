@@ -1,7 +1,7 @@
 # Evaluación
 Fecha: 19/08/2021
-Año y división:
-Nombre y apellido:
+Año y división: 4° 4
+Nombre y apellido: Manuel Rey
 
 ## Ejercicio
 Cambiar el código en `1_distancia.c`, `2_suma_impares.c`, `3_maximo.c` y `4_divisible_por_3.c` hasta que los tests pasen.
